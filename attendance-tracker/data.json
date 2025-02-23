@@ -1,0 +1,21 @@
+{
+  "subjects": [
+    "english",
+    "Maths",
+    "science"
+  ],
+  "attendance": {
+    "english": {
+      "2025-2-6": "Absent"
+    },
+    "Maths": {
+      "2025-2-5": "Present",
+      "2025-2-6": "Present"
+    },
+    "science": {
+      "2025-2-5": "Absent",
+      "2025-2-6": "Present",
+      "2025-2-13": "Leave"
+    }
+  }
+}
